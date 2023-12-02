@@ -1,0 +1,31 @@
+body{
+    font-family: 'Sourse Sans Pro', sans-serif;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 1rem 0;
+}
+
+header span {
+    color: aqua;
+}
+
+nav{
+    width: 30%;
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+nav ul a{
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
