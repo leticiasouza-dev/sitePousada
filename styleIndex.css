@@ -102,6 +102,44 @@
     width: 100%;
 }
 
+/* estilização sobre a pousada */
+.sessao-sobre_pousada > p{
+    text-align: center;
+}
+
+.sessao-sobre_pousada h3{
+    margin: 4rem 0 2rem 0;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    
+    margin: 3rem 0 1rem 0;
+}
+
+.container img{
+    width: 8vw;
+    height: 20vh;
+    float: right;
+   
+}
+
+.colun1, .colun2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.container article{
+    width: 40vw;
+    
+    padding-bottom: 3rem;
+}
+
+.container article h5{
+    padding-bottom: 1.7rem;
+}
 
 /* estilização do rodapé da página */
 
