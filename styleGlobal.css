@@ -2,6 +2,13 @@ body{
     font-family: 'Sourse Sans Pro', sans-serif;
 }
 
+h3{
+    text-transform: uppercase;
+    text-align: center;
+}
+
+
+
 header{
     display: flex;
     align-items: center;
@@ -28,4 +35,5 @@ nav ul a{
     text-decoration: none;
     text-transform: uppercase;
 }
+
 
