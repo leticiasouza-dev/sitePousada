@@ -49,7 +49,6 @@
 }
 
 .sessao-boas_vindas > h3{
-    font-size: 2rem;
     margin: 5rem 0 2rem 0;
 }
 
@@ -84,4 +83,21 @@
 
 .info-quartos article > hr{
     width: 25vw;
+}
+
+/* estilização da  sessão rota*/
+.sessao-rota{
+    text-align: center;
+}
+
+.sessao-rota h3{
+    margin-bottom: 2rem;
+}
+
+.sessao-rota p{
+    margin-bottom: 3rem;
+}
+
+.sessao-rota iframe{
+    width: 100%;
 }
