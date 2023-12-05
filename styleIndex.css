@@ -101,3 +101,43 @@
 .sessao-rota iframe{
     width: 100%;
 }
+
+
+/* estilização do rodapé da página */
+
+footer{
+    background-color: rgb(73,153,124);
+    color: white;
+
+    padding: 0 5rem;
+}
+
+
+footer img{
+    width: 2.5vw;
+}
+
+footer div{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    padding: 0.5rem 0;
+}
+
+footer div > p{
+    padding-left: 0.4rem;
+}
+
+footer ul{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+footer ul > li{
+    margin: 0.5rem 0;
+}
+
+
+
