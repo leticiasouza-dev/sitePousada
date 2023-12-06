@@ -3,3 +3,45 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.sessao-banner{
+    background-image: url(./assets/img-fundo.jpg);
+    background-repeat: no-repeat;
+
+    height:25vh;
+}
+
+.container{
+    padding: 0 8rem;
+}
+
+.sessao-quartos {
+    margin: 4rem 0 3rem 0;
+}
+
+.sessao-quartos h3{
+    margin-bottom: 2rem;
+}
+
+.sessao-quartos p{
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.sessao-quartos div{
+    display: flex;
+    justify-content: space-between;
+}
+
+.sessao-quartos img{
+    width: 26vw;
+}
+
+.paragrafo-informacoes{
+    margin-top: 4rem;
+}
+
+.sessao-quartos ul{
+    display: flex;
+    justify-content: space-between;
+}
